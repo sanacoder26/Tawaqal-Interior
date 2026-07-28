@@ -1,0 +1,6 @@
+{
+  "name": "Tawaqal Interior",
+  "description": "Home Interior Karachi — False Ceiling, Wall Moulding, Electrical Work, Wood Work, Paint Finishing, Tile Fixing & Complete Renovation Services",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
